@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
 <div id="content">
   <h1>My ToDo List App</h1>
   <input type="text" id="new-item" placeholder="A new item..." />
@@ -7,3 +12,7 @@
   </ul>
   <button id="delete-all-btn" onclick=" deleteLists()">Delete all</button>
 </div>
+</head>
+
+</html>
+
